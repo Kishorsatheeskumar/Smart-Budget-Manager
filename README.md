@@ -3,8 +3,8 @@ The Smart Budget Manager is a Java-based console application designed to help us
 
 🎯 Features
 
-✅ User Registration & Login\n
-✅ Add & View Income Records
+✅ User Registration & Login \
+✅ Add & View Income Records \
 ✅ Add & View Expense Records
 ✅ Calculate Total Income, Expense & Balance
 ✅ User Profile Management (Name & Email)
